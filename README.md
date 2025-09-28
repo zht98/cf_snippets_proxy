@@ -5,3 +5,7 @@ Cloudflare Snippets 文档：https://developers.cloudflare.com/rules/snippets/
 2. 在Snippets里创建一个片段，粘贴代码
 3. 修改UUID变量
 4. 部署
+
+
+# 感谢
+基于 ymyuuu 的代码修改，增加订阅功能：https://github.com/ymyuuu/workers-vless
