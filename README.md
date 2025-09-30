@@ -1,4 +1,4 @@
-Cloudflare Snippets 文档：https://developers.cloudflare.com/rules/snippets/
+视频教程：https://www.youtube.com/watch?v=cSCIWjTsL3Y
 
 步骤：
 1. 在Cloudflare中选择一个域名，在右侧 规则(Rule) > Snippets，如果提示需要升级到Pro，尝试换一个域名
