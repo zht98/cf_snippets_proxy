@@ -2,7 +2,7 @@ import {
     connect
 } from 'cloudflare:sockets';
 
-const UUID = '1f9d104e-ca0e-4202-ba4b-a0afb969c747';
+const UUID = 'ab0e51a3-0eee-405a-860f-7f84d31e6379';
 // 反向代理IP，无法访问时通过代理访问
 const DEFAULT_PROXY_IP = 'bestproxy.030101.xyz:443'; // 来源：https://ipdb.030101.xyz/bestdomain/
 // 优选域名/IP
@@ -315,4 +315,5 @@ async function handle_ws(req) {
         status: 101,
         webSocket: client
     });
+
 }
